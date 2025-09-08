@@ -1,6 +1,6 @@
 name = "GAP_pkg_anupq_jll"
 uuid = "995f5adf-d221-5ddc-a873-ce518b8081c9"
-version = "300.30200.0+0"
+version = "301.30200.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
